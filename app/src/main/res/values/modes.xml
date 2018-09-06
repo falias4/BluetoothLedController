@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modes_array">
+		<item>Reset</item>
+        <item>Static</item>
+        <item>Blink</item>
+        <item>Wipe</item>
+        <item>Rainbow</item>
+        <item>Random</item>
+        <item>Switch Parity</item>
+        <item>Bounce Middle</item>
+        <item>Fade</item>
+        <item>Bounce Fade</item>
+    </string-array>
+</resources>

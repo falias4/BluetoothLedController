@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Toby\\.android\\build-cache\\2c1e10c7aa1d5b6b2ace18202e7da6334c365e4d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Toby\\.android\\build-cache\\2c1e10c7aa1d5b6b2ace18202e7da6334c365e4d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Toby\\.android\\build-cache\\2c1e10c7aa1d5b6b2ace18202e7da6334c365e4d\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Toby\\.android\\build-cache\\2c1e10c7aa1d5b6b2ace18202e7da6334c365e4d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Toby\\.android\\build-cache\\2c1e10c7aa1d5b6b2ace18202e7da6334c365e4d\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Toby\\.android\\build-cache\\2c1e10c7aa1d5b6b2ace18202e7da6334c365e4d\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Toby\\.android\\build-cache\\2c1e10c7aa1d5b6b2ace18202e7da6334c365e4d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Toby\\.android\\build-cache\\2c1e10c7aa1d5b6b2ace18202e7da6334c365e4d\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Toby\\.android\\build-cache\\2c1e10c7aa1d5b6b2ace18202e7da6334c365e4d\\output\\res\\color\\switch_thumb_material_dark.xml"
+    }
+]

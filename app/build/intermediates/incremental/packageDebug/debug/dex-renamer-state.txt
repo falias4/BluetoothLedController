@@ -1,0 +1,4 @@
+#Tue Sep 04 21:53:26 CEST 2018
+base.0=E\:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_cp.xml",
+        "source": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\src\\main\\res\\menu\\main_cp.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bluetooth.xml",
+        "source": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\src\\main\\res\\menu\\bluetooth.xml"
+    },
+    {
+        "merged": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

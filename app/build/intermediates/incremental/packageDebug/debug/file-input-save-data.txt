@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Sep 04 21:53:26 CEST 2018
+0.baseType=DIRECTORY
+0.base=E\:\\Development\\Android\\AndroidStudioProjects\\BluetoothLedController\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

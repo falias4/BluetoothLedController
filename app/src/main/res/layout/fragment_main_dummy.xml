@@ -1,0 +1,124 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity$DummySectionFragment" >
+
+    <TextView
+        android:id="@+id/lblSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Speed"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/lblSpeedValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/seekBarSpeed"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/lblSpeed"
+        android:gravity="center_vertical|right"
+        android:minWidth="35dp"
+        android:text="200"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <SeekBar
+        android:id="@+id/seekBarSpeed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lblSpeed"
+        android:layout_toLeftOf="@id/lblSpeedValue"
+        android:max="1000"
+        android:progress="200" />
+
+    <com.larswerkman.holocolorpicker.ColorPicker
+        android:id="@+id/colorPicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/separator"
+        android:layout_below="@+id/seekBarSpeed" />
+
+    <com.larswerkman.holocolorpicker.SVBar
+        android:id="@+id/sVBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/separator"
+        android:layout_below="@+id/colorPicker"
+         />
+    
+    <com.larswerkman.holocolorpicker.OpacityBar
+        android:id="@+id/opacityBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/separator"
+        android:layout_below="@+id/sVBar1" />
+    
+    <View android:id="@+id/separator"
+       android:layout_width="0dp"
+       android:layout_height="0dp" 
+       android:layout_centerInParent="true"/>
+    
+    <TextView
+        android:id="@+id/lblMode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/lblSpeedValue"
+        android:layout_toRightOf="@+id/separator"
+        android:gravity="center"
+        android:text="Mode"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/modeSelector"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/lblMode"
+        android:layout_toRightOf="@+id/separator" />
+
+    <TextView
+        android:id="@+id/lblReverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/modeSelector"
+        android:layout_alignLeft="@+id/separator"
+        android:text="Reverse"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ToggleButton
+        android:id="@+id/toggleReverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/lblReverse"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/lblReverse" />
+
+	<TextView
+        android:id="@+id/lblRandomColors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/toggleReverse"
+        android:layout_alignLeft="@+id/separator"
+        android:text="Random Colors"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ToggleButton
+        android:id="@+id/toggleRandomColors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/lblRandomColors"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/lblRandomColors" />
+</RelativeLayout>
